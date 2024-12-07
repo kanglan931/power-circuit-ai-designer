@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+opencv-python
+tensorflow  # or pytorch
+pyqt6>=6.0.0  # or tkinter, which comes with Python
+pyspice
